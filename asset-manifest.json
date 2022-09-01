@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imagine/static/css/main.e6c13ad2.css",
+    "main.js": "/imagine/static/js/main.7d8e914a.js",
+    "index.html": "/imagine/index.html",
+    "main.e6c13ad2.css.map": "/imagine/static/css/main.e6c13ad2.css.map",
+    "main.7d8e914a.js.map": "/imagine/static/js/main.7d8e914a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d8e914a.js"
+  ]
+}
